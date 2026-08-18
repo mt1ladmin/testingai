@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+  --brand: #1a3a5c;
+  --accent: #e8a020;
+}
+
+html {
+  scroll-behavior: smooth;
+}
